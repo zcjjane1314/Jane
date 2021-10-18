@@ -1,0 +1,6 @@
+framework module JANE {
+  umbrella header "JANE-umbrella.h"
+
+  export *
+  module * { export * }
+}
